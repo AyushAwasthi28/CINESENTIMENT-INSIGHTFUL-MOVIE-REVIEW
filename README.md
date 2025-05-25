@@ -3,8 +3,3 @@ Sentiment Analysis of Movie Reviews is either positive or negative review, the d
 
 # Dataset
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
-
-# Requirement
-* Scikit-learn
-* Python
-* SpaCy
